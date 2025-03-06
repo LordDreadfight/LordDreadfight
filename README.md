@@ -14,6 +14,6 @@ I code everything from smaller applications like a sql console with intellisense
 You can have a look into some of my projects on my website, [letti.site](https://www.letti.site).
 
 ## In which languages do i code?
-I develope my projects mostly in c, c++, i also used to work with c#.
+I develop my projects mostly in c, c++, i also used to work with c#.
 
 [lettisite]: https://www.letti.site "letti.site"
